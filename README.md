@@ -23,5 +23,10 @@
 #### 12th Marksheet
 | Subject| Theory| Practical | Total |
 |------- |--------|----------|-------|
-|maths   |    74  |      20  |   94  |
-| -------|--------|----------|-------|
+|Maths   |    74  |      20  |   94  |
+|Biology |    69  |      30  |   99  |
+|Physics |    68  |      30  |   98  |
+|Chemistry |  66  |      30  |   96  |
+|English  |   74  |      20  |   94  |   
+
+
