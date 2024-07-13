@@ -1,8 +1,8 @@
 # Taranpreet-codes.github.io
 
-***Welcome to my portfolio***
+## ***Welcome to my portfolio***
 
-## Personal Information
+### Personal Information
 
 - Name: Taranpreet Kaur
 
@@ -20,7 +20,7 @@
 
 - java
 
-#### 12th Marksheet
+### 12th Marksheet
 | Subject| Theory| Practical | Total |
 |------- |--------|----------|-------|
 |Maths   |    74  |      20  |   94  |
@@ -29,4 +29,6 @@
 |Chemistry |  66  |      30  |   96  |
 |English  |   74  |      20  |   94  |   
 
+## Summary
 
+I am Taranpreet kaur from District-Fazilka. I have completed my secondary education from Saragarhi Memorial Meritorious School Ferozpur, currently persuing my graduation in Btech(Computer Science) from Guru Nanak Dev Engineering College, Ludhiana.I have learnt Basic Programming in C, c++, Java. I am going to learn Python.
