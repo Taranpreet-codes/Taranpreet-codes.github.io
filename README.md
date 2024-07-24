@@ -34,4 +34,6 @@
 I am Taranpreet kaur from District-Fazilka. I have completed my secondary education from Saragarhi Memorial Meritorious School Ferozpur, currently persuing my graduation in Btech(Computer Science) from Guru Nanak Dev Engineering College, Ludhiana.I have learnt Basic Programming in C, c++, Java. I am going to learn Python.
 
 _________
+## my blog 
+[view my blog](https://Taranpreet-codes.github.io/my_experienc%20/)
 
