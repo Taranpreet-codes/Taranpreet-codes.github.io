@@ -35,5 +35,5 @@ I am Taranpreet kaur from District-Fazilka. I have completed my secondary educat
 
 _________
 ## my blog 
-[view my blog](https://Taranpreet-codes.github.io/gndec induction experience%20/)
+[view my blog](https://Taranpreet-codes.github.io/gndec-induction-experience%20/)
 
